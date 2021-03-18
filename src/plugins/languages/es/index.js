@@ -1,0 +1,22 @@
+export default {
+  user: "Usuario",
+  noUsers:"No hay usuarios porfavor contacta al Administrador",
+  records:"Historial",
+  accounts:"Cuentas",
+  account:"Cuenta",
+  add:"Agregar",
+  empty:"Campo vació",
+  name:"Nombre",
+  amount:"Cantidad",
+  cancel:"Cancelar",
+  accept:"Aceptar",
+  options:"Opciones",
+  successAccount:"Se completo la transacción",
+  failAccount:"Fallo la transacción",
+  amountDeposit:"Cantidad a depositar",
+  amountWithdrawal:"Cantidad a retirar",
+  date:"Fecha",
+  languages:"Idioma",
+  spanish:"Español",
+  english:"Ingles"
+};

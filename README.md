@@ -1,19 +1,16 @@
 # financiera-frontend
 
-## Project setup
+## Como iniciar el proyecto
 ```
+Descargar [NodeJS LTS](https://nodejs.org/es/).
+
+Instalar [Vue CLI](https://cli.vuejs.org/guide/installation.html) globalmente.
+npm install -g @vue/cli
+
+Instalar los modulos
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+Compilar y correr el proyecto en modeo desarrollo
 npm run serve
-```
 
-### Compiles and minifies for production
 ```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
